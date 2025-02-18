@@ -10,7 +10,7 @@ This a Python application that converts a geographic coordinates to reveal the l
 ![image](https://github.com/user-attachments/assets/16c672d5-6d00-4ab5-afea-b1233dfc398a)
 - This is the first look of the application once you run it.
 ![image](https://github.com/user-attachments/assets/f83aaaf3-3d4a-4047-b5cf-ae588a7973f2)
-- Input the latitude and longitude coordinates/
+- Input the latitude and longitude coordinates.
 ![image](https://github.com/user-attachments/assets/bea47fd6-2793-4726-a82b-1c4592859770)
 - Press the "Show Map" button to reveal the location of the coordinates and it will be revealed on the map, you can zoom in and out.
 
